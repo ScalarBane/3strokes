@@ -177,10 +177,13 @@ strong {
       .pr__header .inner .logo .brand {
         display: inline-block;
         width: 100%;
-        height: 28px;
-        background-image: url("assets/images/logo.svg");
+        font-size: 28px;
+        font-family: 'Roboto Slab';
+        font-weight: bold;
+        /* background-image: url("assets/images/logo.png");
         background-size: cover;
-        background-repeat: no-repeat; }
+        background-repeat: no-repeat; } */
+      }
     .pr__header .inner .navbar {
       display: none; }
       .pr__header .inner .navbar a {

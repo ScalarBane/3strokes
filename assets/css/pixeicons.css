@@ -1,32 +1,32 @@
 @font-face {
   font-family: 'Pixeicons';
-  src:  url('../fonts/Pixeicons/Main/Pixeicons.eot?4ts25x');
-  src:  url('../fonts/Pixeicons/Main/Pixeicons.eot?4ts25x') format('embedded-opentype'),
-    url('../fonts/Pixeicons/Main/Pixeicons.ttf?4ts25x') format('truetype'),
-    url('../fonts/Pixeicons/Main/Pixeicons.woff?4ts25x') format('woff'),
-    url('../fonts/Pixeicons/Main/Pixeicons.svg?4ts25x') format('svg');
+  src:  url('../fonts/Pixeicons/Main/Pixeiconsc803.eot?4ts25x');
+  src:  url('../fonts/Pixeicons/Main/Pixeiconsc803.eot?4ts25x#iefix') format('embedded-opentype'),
+    url('../fonts/Pixeicons/Main/Pixeiconsc803.ttf?4ts25x') format('truetype'),
+    url('../fonts/Pixeicons/Main/Pixeiconsc803.woff?4ts25x') format('woff'),
+    url('../fonts/Pixeicons/Main/Pixeiconsc803.svg?4ts25x#Pixeicons') format('svg');
   font-weight: 400;
   font-style: normal;
 }
 
 @font-face {
   font-family: 'Pixeicons';
-  src:  url('../fonts/Pixeicons/Brands/Pixeicons.eot?4ts25x');
-  src:  url('../fonts/Pixeicons/Brands/Pixeicons.eot?4ts25x') format('embedded-opentype'),
-    url('../fonts/Pixeicons/Brands/Pixeicons.ttf?4ts25x') format('truetype'),
-    url('../fonts/Pixeicons/Brands/Pixeicons.woff?4ts25x') format('woff'),
-    url('../fonts/Pixeicons/Brands/Pixeicons.svg?4ts25x') format('svg');
+  src:  url('../fonts/Pixeicons/Brands/Pixeiconsc803.eot?4ts25x');
+  src:  url('../fonts/Pixeicons/Brands/Pixeiconsc803.eot?4ts25x#iefix') format('embedded-opentype'),
+    url('../fonts/Pixeicons/Brands/Pixeiconsc803.ttf?4ts25x') format('truetype'),
+    url('../fonts/Pixeicons/Brands/Pixeiconsc803.woff?4ts25x') format('woff'),
+    url('../fonts/Pixeicons/Brands/Pixeiconsc803.svg?4ts25x#Pixeicons') format('svg');
   font-weight: 700;
   font-style: normal;
 }
 
 @font-face {
   font-family: 'Pixeicons';
-  src:  url('../fonts/Pixeicons/Line/Pixeicons.eot?4ts25x');
-  src:  url('../fonts/Pixeicons/Line/Pixeicons.eot?4ts25x') format('embedded-opentype'),
-    url('../fonts/Pixeicons/Line/Pixeicons.ttf?4ts25x') format('truetype'),
-    url('../fonts/Pixeicons/Line/Pixeicons.woff?4ts25x') format('woff'),
-    url('../fonts/Pixeicons/Line/Pixeicons.svg?4ts25x') format('svg');
+  src:  url('../fonts/Pixeicons/Line/Pixeiconsc803.eot?4ts25x');
+  src:  url('../fonts/Pixeicons/Line/Pixeiconsc803.eot?4ts25x#iefix') format('embedded-opentype'),
+    url('../fonts/Pixeicons/Line/Pixeiconsc803.ttf?4ts25x') format('truetype'),
+    url('../fonts/Pixeicons/Line/Pixeiconsc803.woff?4ts25x') format('woff'),
+    url('../fonts/Pixeicons/Line/Pixeiconsc803.svg?4ts25x#Pixeicons') format('svg');
   font-weight: 300;
   font-style: normal;
 }
