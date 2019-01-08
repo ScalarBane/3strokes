@@ -1,14 +1,14 @@
 /* Trade Gothic */
 @font-face {
     font-family: 'Trade Gothic';
-    src: url('../fonts/Trade_Gothic/tradegothic-light.woff2') format('woff2'),
+    src: url('../fonts/Trade_Gothic/tradegothic-light.html') format('woff2'),
         url('../fonts/Trade_Gothic/tradegothic-light.woff') format('woff');
     font-weight: 300;
     font-style: normal;
 }
 @font-face {
     font-family: 'Trade Gothic';
-    src: url('../fonts/Trade_Gothic/tradegothic.woff2') format('woff2'),
+    src: url('../fonts/Trade_Gothic/tradegothic.html') format('woff2'),
          url('../fonts/Trade_Gothic/tradegothic.woff') format('woff');
     font-weight: 400;
     font-style: normal;
@@ -25,7 +25,7 @@
 
 @font-face {
     font-family: 'Avant Grade';
-    src: url('../fonts/Avant_Grade/AvantGarde-Light.woff2') format('woff2'),
+    src: url('../fonts/Avant_Grade/AvantGarde-Light.html') format('woff2'),
         url('../fonts/Avant_Grade/AvantGarde-Light.woff') format('woff');
     font-weight: 300;
     font-style: normal;
