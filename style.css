@@ -177,9 +177,9 @@ strong {
       .pr__header .inner .logo .brand {
         display: inline-block;
         width: 100%;
-        font-size: 28px;
-        font-family: 'Roboto Slab';
-        font-weight: bold;
+        font-size: 35px;
+        font-family: 'Trade Gothic';
+        font-weight: bolder;
         /* background-image: url("assets/images/logo.png");
         background-size: cover;
         background-repeat: no-repeat; } */
